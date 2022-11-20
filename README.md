@@ -4,4 +4,3 @@
 - 🌱 I’m currently learning GoLang
 - 💬 Ask me about Cloud Infrastructure
 
-**I'AM ON SABBATICAL**
