@@ -14,7 +14,7 @@ Lately, I’ve been designing an experimental AI-powered framework that merges a
 ## 🔧 Core Skills
 
 - **Cloud & Infrastructure**: AWS, Proxmox, Terraform, Ansible, WireGuard, Kubernetes, Docker, Linux
-- **DevOps & SRE**: CI/CD pipelines, observability (Prometheus/Grafana), Datadog,  high-availability architecture  
+- **DevOps & SRE**: CI/CD pipelines(github actions, gitlab-ci, Screwdriver), observability (Prometheus/Grafana, Datadog, Splunk),  high-availability architecture  
 - **Languages**: Go (primary), Python, Bash  
 
 ---
