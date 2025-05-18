@@ -18,7 +18,6 @@ Lately, I’ve been designing an experimental AI-powered framework that merges a
 - **Cloud & Infrastructure**: AWS, Proxmox, Terraform, Ansible, WireGuard, Kubernetes, Docker, Linux
 - **DevOps & SRE**: CI/CD pipelines, observability (Prometheus/Grafana), Datadog,  high-availability architecture  
 - **Languages**: Go (primary), Python, Bash  
-- **AI & Data**: LLM integration, Qdrant, MongoDB, Redis, Dgraph, embedding workflows  
 - **Tooling**: Neovim, tmux, NixOS (experimental), Matrix, custom homelab infrastructure
 
 ---
