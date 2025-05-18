@@ -1,8 +1,7 @@
 # Wissam Youssef
 
 👨‍💻 **Cloud Infrastructure Engineer** | 🧠 Systems Architect | 🛠️ DevOps & SRE Specialist  
-📍 North Vancouver, Canada | 🇱🇧 Originally from Lebanon
-
+📍 Metro Vancouver, Canada 
 ---
 
 ## 👋 About Me
