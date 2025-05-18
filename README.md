@@ -44,14 +44,6 @@ Lately, I’ve been designing an experimental AI-powered framework that merges a
 
 ---
 
-## 🧠 Philosophy
-
-> Software should serve *meaning* — not just function.  
-> Infrastructure should *vanish* when it works.  
-> The best systems extend your reach without getting in your way.
-
----
-
 ## 📫 Let’s Connect
 
 - [LinkedIn](https://www.linkedin.com/in/wissamyoussef/) — Work history & insights
