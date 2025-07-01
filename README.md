@@ -7,7 +7,7 @@
 
 I'm Wissam — a systems-first engineer focused on building reliable, intelligent, and resilient backend infrastructure. I specialize in cloud-native environments, automation pipelines, and the orchestration of distributed systems.
 
-Lately, I’ve been designing an experimental AI-powered framework that merges automation, memory, and modularity — aiming to build tools that *work with you*, not just for you.
+Lately, I’ve been designing an experimental AI-powered framework that merges automation, memory, and modularity.
 
 ---
 
