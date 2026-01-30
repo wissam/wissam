@@ -1,9 +1,9 @@
 # Wissam Youssef
 
-👨‍💻 **Cloud Infrastructure Engineer** | 🧠 Systems Architect | 🛠️ DevOps & SRE Specialist  
+**Cloud Infrastructure Engineer** |  Systems Architect | DevOps & SRE Specialist  
 ---
 
-## 👋 About Me
+## About Me
 
 I'm Wissam — a systems-first engineer focused on building reliable, intelligent, and resilient backend infrastructure. I specialize in cloud-native environments, automation pipelines, and the orchestration of distributed systems.
 
@@ -11,7 +11,7 @@ Lately, I’ve been designing an experimental AI-powered framework that merges a
 
 ---
 
-## 🔧 Core Skills
+## Core Skills
 
 - **Cloud & Infrastructure**: AWS, Proxmox, Terraform, Ansible, WireGuard, Kubernetes, Docker, Linux
 - **DevOps & SRE**: CI/CD pipelines(github actions, gitlab-ci, Screwdriver), observability (Prometheus/Grafana, Datadog, Splunk),  high-availability architecture  
@@ -19,7 +19,7 @@ Lately, I’ve been designing an experimental AI-powered framework that merges a
 
 ---
 
-## 🧰 Tech Stack & Tools
+## Tech Stack & Tools
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -32,16 +32,16 @@ Lately, I’ve been designing an experimental AI-powered framework that merges a
 
 ---
 
-## 🧪 Current Focus
+## Current Focus
 
-- ⚙️ Developing a modular backend framework for intelligent automation  
-- 📦 Exploring tools to accelerate MicroSaaS product creation  
-- 🛡️ Building resilient systems with memory and semantic awareness  
-- 🌍 Architecting distributed node orchestration across local and cloud environments
+-  Developing a modular backend framework for intelligent automation  
+-  Exploring tools to accelerate MicroSaaS product creation  
+-  Building resilient systems with memory and semantic awareness  
+-  Architecting distributed node orchestration across local and cloud environments
 
 ---
 
-## 📫 Let’s Connect
+## Let’s Connect
 
 - [LinkedIn](https://www.linkedin.com/in/wissamyoussef/) — Work history & insights
 - [X](https://www.x.com/wissamcodes/)
