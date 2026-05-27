@@ -43,6 +43,7 @@ Lately, I’ve been designing an experimental AI-powered framework that merges a
 
 ## Let’s Connect
 
+- [Book Me](https://wissamyoussef.com) - Business website
 - [LinkedIn](https://www.linkedin.com/in/wissamyoussef/) — Work history & insights
 - [X](https://www.x.com/wissamcodes/)
 
